@@ -1,2 +1,2 @@
 # stm32_slave
-This is a stm32 as a slave, through i2c to transfer data with the host, to enable the corresponding pwm and gpio routines
+This is a stm32 as a slave, transfer data to the host via i2c, enable the corresponding pwm and gpio, and flash write routines
